@@ -1,4 +1,4 @@
-[![](https://nvquicktheme.nvisionative.com/portals/0/nvQuickTheme_logo.png)](https://nvquicktheme.nvisionative.com)
+[![](https://jewettcitysoftwarecorporation.github.io/communityhealthafrica.org/img/CHAPS.jpg)](https://jewettcitysoftwarecorporation.github.io/communityhealthafrica.org/)
 
 [![Build status](https://nvisionative.visualstudio.com/nvQuickTheme/_apis/build/status/nvQuickTheme-Node.js%20With%20gulp-CI)](https://nvisionative.visualstudio.com/nvQuickTheme/_build/latest?definitionId=1) [![Greenkeeper badge](https://badges.greenkeeper.io/nvisionative/nvQuickTheme.svg)](https://greenkeeper.io/) [![HitCount](http://hits.dwyl.io/nvisionative/nvQuickTheme.svg)](http://hits.dwyl.io/nvisionative/nvQuickTheme)
 
